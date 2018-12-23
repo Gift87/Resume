@@ -1,0 +1,70 @@
+
+.school {
+    color: #a1a3a1;
+    top:93px;
+    position: relative;
+    text-align: right;
+
+}
+.name {
+    position: relative;
+    top:90px;
+    font-size: 50px;
+    text-align: right;
+}
+
+
+
+h5 {
+    position: relative;
+    top: 100px;
+    text-align: right;
+}
+#proficiencies { 
+    position: relative;
+    top:110px;
+    text-align: right;
+    
+}
+
+#contactContainer {
+    
+  position:relative;
+  top: 127px;
+  float:left;
+  
+    
+}
+
+
+#rowRow {
+    position:relative;
+    top: 87px;
+}
+
+#cripSideContain {
+   
+  position: relative;
+  top:57px;
+  overflow: auto;
+    
+}
+
+.phone {
+    position:relative;
+    top:87px;
+    text-align: right;
+}
+.poop {
+    background-color: rgb(212, 211, 211);
+}
+
+
+
+#date {
+    margin-top: 13px;
+    font-size: 14px;
+   text-align: right;
+}
+
+
